@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/user36X/backend-coderhouse#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "uuid": "^9.0.1"
   }
 }

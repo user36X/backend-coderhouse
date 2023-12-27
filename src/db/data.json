@@ -1,0 +1,31 @@
+{
+	"products": [
+		{
+			"id": "1a7d8f18-58f3-4d0e-849a-6db01d6e9ef6",
+			"title": "Product A",
+			"description": "This is product A.",
+			"price": 9.99,
+			"thumbnail": "https://example.com/product-a-thumbnail.jpg",
+			"code": "A12345",
+			"stock": 10
+		},
+		{
+			"id": "be7e6e0d-6147-4ddc-a6de-60d8fda34d9c",
+			"title": "Product B",
+			"description": "This is product B.",
+			"price": 19.99,
+			"thumbnail": "https://example.com/product-b-thumbnail.jpg",
+			"code": "B67890",
+			"stock": 5
+		},
+		{
+			"id": "4a2f5cd8-5d5e-476e-a5c8-d1e93c2f774d",
+			"title": "Product C",
+			"description": "This is product C.",
+			"price": 14.99,
+			"thumbnail": "https://example.com/product-c-thumbnail.jpg",
+			"code": "C24680",
+			"stock": 20
+		}
+	]
+}
